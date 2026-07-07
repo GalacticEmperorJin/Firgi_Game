@@ -56,5 +56,5 @@
         "temp/": true,
         "Temp/": true
     },
-    "dotnet.defaultSolution": "FIRGI_game.sln"
+    "dotnet.defaultSolution": "Firgi_Game.sln"
 }
