@@ -42,7 +42,7 @@ public class UIManager : MonoBehaviour
 
     private void OnAnswerSelected(int i)
     {
-        //QuestionManager.Instance.SubmitAnswer(i);
+        QuestionManager.Instance.SubmitAnswer(i);
     }
 
     public void DisplayQuestion(Question question)
